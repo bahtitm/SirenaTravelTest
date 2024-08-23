@@ -1,0 +1,6 @@
+@SirenaTravelTest_HostAddress = http://localhost:5072
+
+GET {{SirenaTravelTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
